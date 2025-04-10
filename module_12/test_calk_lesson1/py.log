@@ -1,0 +1,8 @@
+2025-04-10 23:07:12,927 | INFO | Successful divide 3 / 4
+2025-04-10 23:07:12,929 | INFO | Successful divide 3 / 0
+2025-04-10 23:07:12,929 | ERROR | Na nol ne deli!!!
+Traceback (most recent call last):
+  File "C:\Users\ХП\Учебный проект Пайтон\lessons0\module_12\test_calk_lesson1\calk_11.py", line 59, in div
+    return a / b
+           ~~^~~
+ZeroDivisionError: division by zero
